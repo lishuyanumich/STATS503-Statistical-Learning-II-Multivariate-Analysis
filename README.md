@@ -1,0 +1,2 @@
+# STATS503-Statistical-Learning-II-Multivariate-Analysis
+The course topics include principal component analysis and other dimension reduction techniques, classification (discriminant analysis, decision trees, nearest neighbor classifiers, logistic regression, support vector machines, ensemble methods), clustering agglomerative and partitioning methods, model-based methods), and categorical data analysis.
